@@ -17,6 +17,5 @@ public class HOMEWORK2 {
     System.out.println(n + "*9=" + n * 9);
     System.out.println(n + "*10=" + n * 10);
     sc.close();
-
     }
 }
