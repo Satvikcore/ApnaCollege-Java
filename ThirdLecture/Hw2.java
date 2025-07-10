@@ -8,38 +8,38 @@ public class Hw2 {
     System.out.println("Enter the number of the month");
     int month = sc.nextInt();
     switch(month){
-case 1 : System.out.println("January");
+case 1 : System.out.println("Month name:January");
 break;
 
-case 2 : System.out.println("February");
+case 2 : System.out.println("Month name:February");
 break;
 
-case 3 : System.out.println("March");
+case 3 : System.out.println("Month name:March");
 break;
 
-case 4 : System.out.println("April");
+case 4 : System.out.println("Month name:April");
 break;
 
-case 5 : System.out.println("May");
+case 5 : System.out.println("Month name:May");
 break;
 
-case 6 : System.out.println("June");
+case 6 : System.out.println("Month name:June");
  break;
 
-case 7 : System.out.println("July");
+case 7 : System.out.println("Month name:July");
 break;
 
-case 8 : System.out.println("August");
+case 8 : System.out.println("Month name:August");
 break;
 
-case 9 : System.out.println("September");
+case 9 : System.out.println("Month name:September");
 break;
 
-case 10 : System.out.println("October");
+case 10 : System.out.println("Month name:October");
 break;
-case 11 : System.out.println("November");
+case 11 : System.out.println("Month name:November");
 break;
-case 12 : System.out.println("December");
+case 12 : System.out.println("Month name:December");
 break;
 default : System.out.println("Invalid");
     }
