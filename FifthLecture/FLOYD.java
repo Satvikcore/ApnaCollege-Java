@@ -5,7 +5,7 @@ import java.util.*;
 public class FLOYD {
     public static void main(String args[]) {
     Scanner sc= new Scanner(System.in);
-    System.out.println("HALF PYRAMID WITH NUMBERS");
+    System.out.println("FLOYD's TRIANGLE");
     System.out.println("Choose the number of rows");
     int m = sc.nextInt();
     int number=1;
